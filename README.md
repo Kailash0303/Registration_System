@@ -4,18 +4,18 @@ A full-stack Java web application for user registration, authentication, and pas
 
 
 
-## ✅ Features
+## Features
 
-- 🔐 Secure password storage with **MD5 encryption**
-- 📧 Email verification & uniqueness validation
-- 🔁 Password reset/change functionality
-- 🗃️ Data persistence with **Hibernate ORM** and **MySQL**
-- 🧑‍💻 MVC-based structure (Servlet Controller, Service, DAO, Model)
-- ✉️ Proper form validation and error handling
+- Secure password storage with **MD5 encryption**
+- Email verification & uniqueness validation
+- Password reset/change functionality
+- Data persistence with **Hibernate ORM** and **MySQL**
+- MVC-based structure (Servlet Controller, Service, DAO, Model)
+- Proper form validation and error handling
 
 
 
-## 🧱 Architecture Overview
+## Architecture Overview
 
 ```text
 Controller (Servlets)
@@ -36,7 +36,7 @@ Service: Business logic like hashing, validation.
 Controller: Handles HTTP requests and forwards to JSP.
 
 
-## 🛠 Tech Stack
+## Tech Stack
 Java (Servlets, JSP)
 
 Hibernate ORM
