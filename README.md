@@ -2,7 +2,7 @@
 
 A full-stack Java web application for user registration, authentication, and password management using **Hibernate ORM**, **Servlets**, and a clean layered architecture (Controller-Service-DAO). The system securely stores user passwords using **MD5 encryption**, verifies emails, prevents duplicate registrations, and allows password changes.
 
----
+
 
 ## ✅ Features
 
@@ -13,7 +13,7 @@ A full-stack Java web application for user registration, authentication, and pas
 - 🧑‍💻 MVC-based structure (Servlet Controller, Service, DAO, Model)
 - ✉️ Proper form validation and error handling
 
----
+
 
 ## 🧱 Architecture Overview
 
@@ -36,7 +36,7 @@ Service: Business logic like hashing, validation.
 Controller: Handles HTTP requests and forwards to JSP.
 
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 Java (Servlets, JSP)
 
 Hibernate ORM
